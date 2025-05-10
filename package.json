@@ -1,5 +1,5 @@
 {
-  "name": "dynasty-timeline-frontend",
+  "name": "dynastytimeline_frontend",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
